@@ -1,5 +1,5 @@
 [package]
-name = "tell"
+name = "too-many-lists"
 version = "0.1.0"
 authors = ["Yechan Bae <qwazpia@gmail.com>"]
 edition = "2018"
