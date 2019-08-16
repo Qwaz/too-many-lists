@@ -1,0 +1,7 @@
+# IDE Settings
+.vscode
+.idea
+
+# Rust
+/target
+**/*.rs.bk
